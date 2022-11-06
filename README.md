@@ -1,5 +1,6 @@
 # 💫 About Me:
-A passionate full stack web developer living in Amsterdam.
+I'm a passionate full stack web developer living in Amsterdam.
+Addicted to learning. 
 
 
 ## 🌐 Socials:
